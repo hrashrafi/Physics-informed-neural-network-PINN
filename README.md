@@ -1,13 +1,13 @@
 # Physics-informed-neural-network-PINN
 
-Seyedehfateme Hosseini (30168979)​
+Seyedehfateme Hosseini 
 
-Zahra Lasemiimeni (30192332)​
+Zahra Lasemiimeni 
 
-Hamidreza Ashrafi (30128339)​
+Hamidreza Ashrafi 
 
-Mehdi Khalili (30192498)​
+Mehdi Khalili 
 
-Mohammadmoein Mirzaei Malekabad (30155063)​
+Mohammadmoein Mirzaei Malekabad 
 
-Mohammadmahdi Eshragh (30187884)
+Mohammadmahdi Eshragh 
